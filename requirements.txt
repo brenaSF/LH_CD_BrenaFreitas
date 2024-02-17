@@ -1,0 +1,8 @@
+## Requisitos de pacotes e versões
+
+python==3.10.12 
+pandas==1.5.3
+numpy==1.25.2
+matplotlib==3.7.1
+seaborn==0.13.1
+sklearn==1.2.2
